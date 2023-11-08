@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../scss/base/_reset.scss","../scss/layaout/_body.scss","../scss/layaout/_footer.scss","../scss/layaout/_header.scss","../scss/layaout/_main.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;AAGJ;EACI;;;AAGJ;AAAA;EAEI;EACA;;;ACXJ;EACI;EACA,qBACA;EAIA;EACA;;;ACRJ;EACI;;;ACDJ;EACI;;AAEA;EACI;;;ACJR;EACI","file":"main.css"}
